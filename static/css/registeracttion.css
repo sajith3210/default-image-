@@ -1,0 +1,8 @@
+body{
+    background-image: url(/static/images/loginpage.jpg);
+}
+.container .card{
+    background-color: rgba(165, 42, 42, 0.651);
+    font-size: 20px;
+    font-weight: 500;
+}
